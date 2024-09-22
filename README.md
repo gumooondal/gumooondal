@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gumooondal&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gumooondal&show_icons=true&theme=radical)
 
 <br>
 
