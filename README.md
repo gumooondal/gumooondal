@@ -25,7 +25,7 @@
 <br>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/gumooondal/github-stats/master/generated/languages.svg#gh-dark-mode-only">
+<img src="https://raw.githubusercontent.com/gumooondal/github-stats/master/generated/overview.svg#gh-dark-mode-only">
 <img src="https://github-readme-stats.vercel.app/api?username=gumooondal&show_icons=true&theme=radical">
 </div>
 <br>
