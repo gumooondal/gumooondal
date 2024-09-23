@@ -14,8 +14,6 @@
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp
 </div>
 
-<br>
-
 <div align="center">
   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />&nbsp
@@ -25,7 +23,7 @@
 <br>
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gumooondal&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gumooondal&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% /> &nbsp
 <img src="https://github-readme-stats.vercel.app/api?username=gumooondal&show_icons=true&theme=radical">
 </div>
 <br>
