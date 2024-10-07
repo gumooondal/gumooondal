@@ -1,6 +1,6 @@
 
 <!--내용 부분-->
-[![Logo](./안선생님.jpg)](https://github.com/username/repository-name/gumooondal/안성생님.jpg)
+[![Logo](./안선생님.jpg)](https://github.com/username/repository-name/gumooondal/AN.jpg)
 <img src="https://github.com/gumooondal/gumooondal/blob/main/안선생님.jpg"/>
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
