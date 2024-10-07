@@ -1,6 +1,7 @@
 
 <!--내용 부분-->
 [![Logo](./안선생님.jpg)](https://github.com/username/repository-name/gumooondal/안성생님.jpg)
+<img src="https://github.com/gumooondal/gumooondal/안성생님.jpg"/>
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
