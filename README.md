@@ -1,6 +1,5 @@
 
 <!--내용 부분-->
-[![Logo](https://github.com/gumooondal/gumooondal/blob/main/AN.jpg)]
 <img src="https://github.com/gumooondal/gumooondal/blob/main/AN.jpg" alt="안선생님" />
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
